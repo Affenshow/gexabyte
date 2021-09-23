@@ -4,201 +4,12 @@
    margin: 0;
 }
 
+
 body {
   background-color: #F2F2F2;
 }
-.first-block {
-
-}
-.second-block {
-
-}
-.all-div {
-  padding: 15px;
-  width: 1098px;
-  height: 1036px;
-
-}
-.colors {
-  padding:  20px;
-  width: 150px;
-  
-  
-}
-.colors-2{
-
-  margin-bottom: 10px;
-  
-}
-.colors-2 p {
-  margin-bottom: 10px;
-  margin:0 auto;
-  font-style: normal;
-  font-weight: 300;
-  font-size: 18px;
-  line-height: 32px;
-
-  text-align: center;
-
-  color: #000000;
-  
-}
-.green {
-  border-radius: 50%;
-  width: 80px;
-  height: 80px;
-  margin:0 auto;
-  background: #19B7BB;
-}
-.green-gradient {
-  border-radius: 50%;
-  margin:0 auto;
-  width: 80px;
-  height: 80px;
-  background: linear-gradient(267.71deg, #1ACACE 0%, #19B7BB 100%);
-}
-.gray-1 {
-  border-radius: 50%;
-  margin:0 auto;
-  width: 80px;
-  height: 80px;
-  background: #BCBCC7;
-}
-.gray-2 {
-  border-radius: 50%;
-  margin:0 auto;
-  width: 80px;
-  height: 80px;
-  background: #EAEAF3;
-}
-.orange-gradient {
-  border-radius: 50%;
-  margin:0 auto;
-  width: 80px;
-  height: 80px;
-  background: linear-gradient(180deg, #F7D479 0%, #EBBD46 100%);
-}
-.black {
-  border-radius: 50%;
-  margin:0 auto;
-  width: 80px;
-  height: 80px;
-  background: #252729;
-}
-p {
-
-  font-style: normal;
-  font-weight: 300;
-  font-size: 18px;
-  line-height: 24px;
-  color: #000000;
-}
- h1 {
-  font-style: normal;
-  font-weight: 600px;
-  font-size: 64px;
-
-  letter-spacing: 0.05em;
-  color: #000000;
-  
-}
-.zag h2 {
-  font-style: normal;
-  font-weight: bold;
-  font-size: 48px;
-  line-height: 64px;
-  letter-spacing: 0.03em;
-  color: #000000;
-  margin: 5px;
-
-}
-.zag h3 {
-  font-style: normal;
-  font-weight: 500;
-  font-size: 36px;
-  line-height: 48px;
-  letter-spacing: 0.03em;
-  color: #000000;
-  margin: 5px;
-
-}
-.zag h4 {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 32px;
-  line-height: 40px;
-  color: #000000;
-  margin: 5px;
-
-}
-.zag h5 {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 24px;
-  line-height: 32px;
-  color: #000000;
-  margin: 5px;
-
-}
-.zag h6 {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 24px;
-  color: #000000;
-  margin: 5px;
-}
-::-webkit-input-placeholder {
-  color:#BCBCC7; 
-  opacity:1;
-  font-style: normal;
-  font-weight: 300;
-  font-size: 18px;
 
 
-}
-.input2 {
-
-
-font-size: 18pt;
-color: #252729;
-
-}
-
-input[type="text"] {
-  font-size: 18px;
-  color: #252729;
-  width: 552px;
-  background: #FFFFFF;
-  border: 1px solid #EAEAF3;
-  border-radius: 12px;
-  margin: 8px 0;
-  outline: none;
-  padding: 13px 0 13px 0px;
-  box-sizing: border-box;
-  transition: 0.3s;
-}
-
-input[type="text"]:focus {
-  border-color: #19B7BB;
-  
-}
-
-.inputWithIcon input[type="text"] {
-  padding-left: 50px;
-}
-
-.inputWithIcon {
-  position: relative;
-}
-
-.inputWithIcon i {
-  position: absolute;
-  left: 0;
-  top: 8px;
-  padding: 13px 15px;
-  transition: 0.3s;
-}
 .div-form input {
   box-shadow: 0px 8px 16px rgba(116, 115, 115, 0.15);
   -webkit-writing-mode: horizontal-tb !important;
@@ -225,38 +36,9 @@ input[type="text"]:focus {
 .div-form input:active {
   box-shadow: 0px 8px 16px rgba(25, 183, 187, 0.32), inset 0px 0px 16px rgba(0, 0, 0, 0.15);
 }
+
+
 .telegram {
-  width: 264px;
-  background: #FFFFFF;
-  margin-top: 14.5rem;
-  box-sizing: border-box;
-  box-shadow: 0px 8px 16px rgba(116, 115, 115, 0.15);
-  border-radius: 12px;
-  font-style: normal;
-  font-weight: 300;
-  font-size: 18px;
-  line-height: 24px;
-  color: #252729;
-  padding: 15px 0px 10px 0px;
-}
-
-.telegram img{
-  vertical-align: middle;
-  padding: 0px 16px 5px 24px;
-}
-
-.telegram-2 {
-  width: 264px;
-  box-sizing: border-box;
-  border-radius: 12px;
-  display: block;
-}
-
-a {
-  text-decoration: none;
-}
-
-.instagram {
   margin-left: 7px;
   position: relative;
   display: inline-block;
@@ -268,23 +50,23 @@ a {
 }
 
 .img-1 {
-  padding-top: 10px;
+  padding-top: 0.1px;
   display: block;
-  margin: auto;
+  margin: 10px;
 }
 
-.instagram-2 {
+.telegram2 {
  
   position: relative;
 } 
 
-.instagram:hover {
+.telegram:hover {
   background: #19B7BB;
 }
-.instagram:hover .img-1{
+.telegram:hover .img-1{
   fill: white;
 } 
-.instagram:active {
+.telegram:active {
   box-shadow: 0px 8px 16px rgba(116, 115, 115, 0.15), inset 0px 0px 8px rgba(0, 0, 0, 0.15)
 }
 
@@ -392,44 +174,62 @@ a {
 .select__item2:hover {
   background-color: #f2f2f2;
 }
-.mouse {
-  display: block;
-  position: relative;
-  margin-top: 10rem;
+
+
+.scroll {
+  background: linear-gradient(180deg, #F7D479 0%, #EBBD46 100%);
   width: 48px;
   height: 72px;
-  background: linear-gradient(180deg, #F7D479 0%, #EBBD46 100%);
-  box-shadow: 0px 8px 16px rgba(116, 115, 115, 0.2);
   border-radius: 32px;
+  margin: 0 auto;
+  left: 936px;
+  top: 976px;
+
 }
-.roll {
+.circle {
+  position: relative;
+  top: 23%;
+  margin: 0 auto;
+  text-align: center;
+  width: 23px;
+  height: 40px;
+  border: 2px solid #fff;
+  border-radius: 100px;
+}
+.circle__dot {
+  position: relative;
+  top: 23%;
+  margin: 0 auto;
+  text-align: center;
+  width: 2px;
+  height: 8px;
+  border: 1px solid #fff;
+  border-radius: 100px;
+}
+
+.scroll, .circle__dot:hover{
+  top: 40%;
+  transition: all 0.5s ease 0s;
+}
+/* main page*/
+.mainpage{
   position: absolute;
-  margin: 16px 0px 0 12px;
-}
-.mousea {
-  display: block;
-   width: 48px;
-  height: 72px;
-  border-radius: 32px;
-}
-.scroll {
-  position: absolute;
-  left: 46.92%;
-  right: 47.08%;
-  top: 19.89%;
-  bottom: 60.3%;
-  background: #FFFFFF;
-}
-.mouse:hover .scroll {
-  top: 30.89%;
-  bottom: 49.3%;
-  transition: 0.3s;
+  width: 1800px;
+  height: 960px;
+  left: 60px;
+  top: 60px;
+
+  background: rgba(255, 255, 255, 0.7);
+  box-shadow: 0px 0px 24px rgba(126, 120, 120, 0.1);
+  backdrop-filter: blur(150px);
+  /* Note: backdrop-filter has minimal browser support */
+
+  border-radius: 48px;
 }
 
 
+                           /*Главная страница*/
 
-
-/*Главная страница*/
 
 html{
   height: 100%;
@@ -451,7 +251,7 @@ body {
   
  
   padding: 0;
-  background-image: url(../images/background.svg);
+  background-image: url(../img/background.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -478,7 +278,7 @@ body {
 
 }
 
-.all-content {
+.all_content {
   max-width: 1800px;
   min-height: 960px;
   display: block;
@@ -506,9 +306,7 @@ body {
   position: relative;
   float: right;
 }
-.soc-bar {
-  
-}
+
 nav {
   max-width: 100%;
   display: inline-block;
@@ -516,7 +314,11 @@ nav {
 .menu {
   display: flex;
 }
-
+.menu li {
+list-style-image: url(../img/marker.svg);
+  list-style-position: outside;
+  margin: 0 9px;
+}
 .menu a:hover {
   color: #19B7BB;
 }
@@ -596,7 +398,24 @@ margin-right: -17px;
   margin: 122px 32px 0 50px;
   word-wrap: break-word;
   display: block;
+
    
+}
+.zagolovok h1 {
+  font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 80px;
+/* or 125% */
+
+letter-spacing: 0.05em;
+}
+.zagolovok p {
+  font-family: Ubuntu;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 36px;
 }
 
 .illustration {
@@ -605,6 +424,7 @@ margin-right: -17px;
   min-height: 507px;
   float: right;
   height: 680px;
+  margin:auto;
   
 }
 .illustration img {
@@ -617,6 +437,7 @@ margin-right: -17px;
 
 
 }
+
 
 .description p{
   max-width: 600px;
@@ -675,4 +496,7 @@ display: inline-block;
 }
 .div-form2 input:active {
   box-shadow: 0px 8px 16px rgba(25, 183, 187, 0.32), inset 0px 0px 16px rgba(0, 0, 0, 0.15);
+}
+a {
+  text-decoration: none;
 }
