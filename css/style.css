@@ -77,7 +77,7 @@ body {
   background: #FFFFFF;
   position: relative;
   width: 552px;
-  border-radius: 12px;
+  border-radius: 20px;
 }
 
 #sel {
@@ -120,6 +120,7 @@ body {
  
   border-radius: 12px;
 }
+
 
 .select__icon {
   align-items: center;
@@ -226,11 +227,6 @@ body {
 
   border-radius: 48px;
 }
-
-
-                           /*Главная страница*/
-
-
 html{
   height: 100%;
   padding: 0;
@@ -274,7 +270,7 @@ body {
 }
 .menu-container {
   display: block;
-  padding-top: 46px;
+  padding-top: 17px;
 
 }
 
@@ -374,7 +370,7 @@ margin-right: -17px;
 }
 .numbers img {
   max-width: 100%;
-  margin-top: 4%;
+  margin-top: 0%;
 }
 
 .main {
@@ -500,3 +496,4 @@ display: inline-block;
 a {
   text-decoration: none;
 }
+
